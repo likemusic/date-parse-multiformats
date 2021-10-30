@@ -1,0 +1,29 @@
+{
+  "name": "date-parse-multiformats",
+  "version": "1.0.0",
+  "description": "Lightweight date format and parse with miltiple input formats (based on `date-format-parse`)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likemusic/date-parse-multiformats.git"
+  },
+  "keywords": [
+    "date",
+    "parse"
+  ],
+  "author": "Valerij Ivashchenko <likemusicdev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likemusic/date-parse-multiformats/issues"
+  },
+  "homepage": "https://github.com/likemusic/date-parse-multiformats#readme",
+  "dependencies": {
+    "date-format-parse": "^0.2.7"
+  }
+}
