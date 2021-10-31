@@ -1,6 +1,6 @@
 {
   "name": "date-parse-multiformats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight date format and parse with miltiple input formats (based on `date-format-parse`)",
   "main": "index.js",
   "directories": {
