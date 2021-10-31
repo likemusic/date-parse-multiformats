@@ -1,4 +1,4 @@
-import parse from 'date-format-parse';
+import {parse} from 'date-format-parse';
 
 
 function getMatchedByLengthFormats(str, formats) {
