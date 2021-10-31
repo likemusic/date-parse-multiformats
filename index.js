@@ -11,7 +11,7 @@ function getMatchedByLengthFormats(str, formats) {
     return matched;
 }
 
-export function parseMultiFormats(
+export default function parseMultiFormats(
     str,
     formats,
     options = {}
